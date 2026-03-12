@@ -2,24 +2,25 @@
 ### Структура файлов
 /local/php_interface/classes/Vit/
 
-VitHL.php
-DoctorsTable.php
-ScheduleTable.php
-SpecializationTable.php
-AddressTable.php
-AdmissionTypeTable.php
+- VitHL.php
+- DoctorsTable.php
+- ScheduleTable.php
+- SpecializationTable.php
+- AddressTable.php
+- AdmissionTypeTable.php
 
 /services/
-DoctorService.php
-ScheduleService.php
-CalendarService.php
+- DoctorService.php
+- ScheduleService.php
+- CalendarService.php
 
-1. DoctorService
+
+##  1. DoctorService
 Отвечает за:
-список врачей
-специализацию
-типы приема
-адреса
+ - список врачей
+ - специализацию
+ - типы приема
+ - адреса
 
 
 ### Использование:
